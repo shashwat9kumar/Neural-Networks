@@ -4,8 +4,13 @@ class myclass
 {
 	int a,b,c,d;
 	public:
-	int add(int x,int y);
+	int add(int x,int y)
+	{ return 0;
+	}
+
 	int sub(int x,int y);
+	{return 0;
+	}
 	int mul(int x,int y);
         int divide(int x,int y);
 };
