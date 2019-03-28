@@ -12,7 +12,12 @@ class myclass
 	{return 0;
 	}
 	int mul(int x,int y);
+	{return 0;
+	}
         int divide(int x,int y);
+	{
+		return 0;
+	}
 };
  int main()
 {
